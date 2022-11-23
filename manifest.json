@@ -1,6 +1,6 @@
 {
-    "name": "ikkilock_web",
-    "short_name": "ikkilock_web",
+    "name": "pruebaweb",
+    "short_name": "pruebaweb",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
